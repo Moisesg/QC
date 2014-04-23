@@ -1,0 +1,1293 @@
+{
+ "horaFinalConteo" : "07:30:00",                  
+ "horaInicioConteo" : "07:00:00",
+ "tiempoInicioVideo" : "06:00:00",
+ "horasConteo" : 0.5,
+ "segInicioVideo": 21600,
+ "segInicioConteo" : 3600,
+ "segFinalConteo" : 5400, 
+ 
+ 
+ "fechaCodificacion" : "12-abril-13",
+ "codificador" : "Sergio",
+ "nombreInterseccion" : "l00033",
+ "revisado" : false,
+ "entregado" : false,
+ "video":{
+			"nombre":"203.mp4",
+			"direccion":"" 
+ 	     }, 
+ "intervalos" : {
+  	              "1":{
+  	               
+  	               "tiempo" :{  
+  	               	             "posicion" : 1 , 
+  	               	             "TiempoDe" : "07:00:00",
+  	                             "TiempoA" : "07:05:00",
+                                 "DeSeg":3600,
+                                 "ASeg": 3900
+  	               	          },  	                	               
+  	                "banco0":{  
+  	               	       
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                },
+  			        "banco1":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                              
+  			                },
+  			        "banco2":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 2,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                }          
+  			        },
+  			        "2" : {
+  	               
+  	               "tiempo" : {  
+  	               	             "posicion" : 2 , 
+  	               	             "TiempoDe" : "07:05:00",
+  	                             "TiempoA" : "07:10:00",
+                                 "DeSeg":3900,
+                                 "ASeg": 4200
+  	               	          },  	                	               
+  	                "banco0":{  
+  	               	       
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                },
+  			        "banco1":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                              
+  			                },
+  			        "banco2":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                }          
+
+  			        },
+  			        "3" : {
+  	               
+  	               "tiempo" : {  
+  	               	             "posicion" : 3 , 
+  	               	             "TiempoDe" : "07:10:00",
+  	                             "TiempoA" : "07:15:00",
+                                 "DeSeg":4200,
+                                 "ASeg": 4500
+  	               	          },  	                	               
+  	                "banco0":{  
+  	               	       
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                },
+  			        "banco1":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                              
+  			                },
+  			        "banco2":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                }          
+
+  			        },         
+  			        "4" : {
+  	               
+  	               "tiempo" : {  
+  	               	             "posicion" : 4 , 
+  	               	             "TiempoDe" : "07:15:00",
+  	                             "TiempoA" : "07:20:00",
+                                 "DeSeg":4500,
+                                 "ASeg": 4800
+  	               	          },  	                	               
+  	                "banco0":{  
+  	               	       
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                },
+  			        "banco1":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                              
+  			                },
+  			        "banco2":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                }          
+
+  			        },         
+  			        "5" : {
+  	               
+  	               "tiempo" : {  
+  	               	             "posicion" : 5 , 
+  	               	             "TiempoDe" : "07:20:00",
+  	                             "TiempoA" : "07:25:00",
+                                 "DeSeg":4800,
+                                 "ASeg": 5100
+  	               	          },  	                	               
+  	                "banco0":{  
+  	               	       
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                },
+  			        "banco1":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                              
+  			                },
+  			        "banco2":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                }          
+
+  			        },         
+  			        "6" : {
+  	               
+  	               "tiempo" : {  
+  	               	             "posicion" : 5 , 
+  	               	             "TiempoDe" : "07:25:00",
+  	                             "TiempoA" : "07:30:00",
+                                 "DeSeg":5100,
+                                 "ASeg": 5400
+  	               	          },  	                	               
+  	               "banco0":{  
+  	               	       
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                },
+  			        "banco1":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                              
+  			                },
+  			        "banco2":{  
+  	               	        
+  	               		 	"NS":{
+	               				  "conteo": 1,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"NP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SN":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SO":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"SP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },     
+  	               		 	"OE":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OS":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"ON":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"OP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     },
+  	               		 	"EO":{
+	               				  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"EN":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	     },
+  			             	"ES":{
+			            		  "conteo": 0,
+			            		  "eventos":[] 	 
+  			             	    },
+  	               		 	"EP":{
+	               				  "conteo": 0,
+	               				  "eventos":[] 	 
+  	               		 	     }                               
+  			                }          
+  			        }         
+
+                }
+}
