@@ -1,3 +1,6 @@
+<?php 
+include('../config.php');
+ ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -534,9 +537,9 @@ td{
 
 <script type="text/javascript">
 //insatancia he inicio
-var QC,nombreInterseccion;
-
-nombreInterseccion = '<?php echo$_GET['nombreInterseccion'];?>';
+var QC,nombreInterseccion,MediaURL;
+MediaURL = '<?php echo MEDIA;?>';
+nombreInterseccion = '<?php echo $_GET['nombreInterseccion'];?>';
 QC = new Cod_QC(nombreInterseccion);
 
 /*$.getJSON('getInterseccion.php', {nombreInterseccion: 'prueba1'}, function(data, textStatus) {

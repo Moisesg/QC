@@ -7,11 +7,12 @@ function Cod_QC(nI)
    //si estos ya na sido codificados antes
 $.getJSON('getInterseccion.php', {nombreInterseccion: nI}, function(json, textStatus) {
     /* inicializar datos */
-  console.log(json);
+ 
         _interseccionData = json;
         //set Video en el reproductor
         //_reproduccion.video_nombre     = json.video.nombre;
-        _reproduccion.video_direccion  = json.video.direccion;
+        _reproduccion.video_direccion  = MediaURL+json.video.direccion.slice(2);
+console.log(_reproduccion.video_direccion);
         _reproduccion.horaInicioConteo = json.horaInicioConteo;
         _reproduccion.horasConteo      = json.horasConteo;
         _reproduccion.segInicioConteo  = json.segInicioConteo;
@@ -26,7 +27,7 @@ $.getJSON('getInterseccion.php', {nombreInterseccion: nI}, function(json, textSt
         /*
          *   INCIAMOS EL PROGRAMA
         */
-     var pasosInicio = $.Deferred( setVideo(_reproduccion), // set el video
+     var pasosInicio = $.Deferred( setVideo(), // set el video
                                    setInfoInterseccion(json), // set informacion de da linterseccion
                                    reimprimirMovimientosEnPantalla(1) // inicializamos los movimientos en pantalla con el primer intervalo
                                  );
@@ -158,12 +159,12 @@ $.getJSON('getInterseccion.php', {nombreInterseccion: nI}, function(json, textSt
     }
 
     //funcion que agrega la ruta de el video al reproductor
-    var setVideo = function(rep){
+    var setVideo = function(){
         var src,v;
         v = $("#video");
         //Set fuente de el video 
         //src = rep.video_direccion+rep.video_nombre;
-        src = rep.video_direccion;
+        src = _reproduccion.video_direccion;
         v.attr({src: src});
         v.on('canplay', iniciartodo());
 

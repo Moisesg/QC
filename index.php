@@ -16,6 +16,7 @@
 	<th>Hora inicio conteo</th>
 	<th>Hora Final conteo</th>
 	<th>Codificador</th>
+	<th>Ruta</th>
 	<th>Fecha codificación</th>
 	<th>-</th>
 	<th>-</th>
@@ -24,29 +25,30 @@
 </tr>
 
 <?php
+include('config.php');
 
-$conectar = new MongoClient("mongodb://JAYROSERVER-PC:27017");
+$conectar = new MongoClient(BD);
 $db = $conectar->QualityCounts;
 $colIntersecciones = $db->intersecciones;
 
 $consulta=array();
-$elementos=array('nombreInterseccion'=> 1, 'horaInicioConteo'=> 1,'horaFinalConteo'=>1,'codificador'=> 1,'fechaCodificacion'=> 1);
+$elementos=array('nombreInterseccion'=> 1, 'horaInicioConteo'=> 1,'horaFinalConteo'=>1,'codificador'=> 1,'fechaCodificacion'=> 1,'video.direccion'=>1);
 $intersecciones= $colIntersecciones ->find($consulta,$elementos);
 
 $conectar->close();
 foreach ($intersecciones as $interseccion){
-
         echo "<tr>";
 			if (array_key_exists("nombreInterseccion",$interseccion) ){
 			        echo "<td>".$interseccion['nombreInterseccion']."</td>";
 			        echo "<td>".$interseccion['horaInicioConteo']."</td>";
 			        echo "<td>".$interseccion['horaFinalConteo']."</td>";
 			        echo "<td>".$interseccion['codificador']."</td>";
-						if (array_key_exists("fechaCodificacion",$interseccion) ){
-						    echo "<td>".$interseccion['fechaCodificacion']."</td>";
-						   }
-						else{
-						    echo "<td>&nbsp;</td>";
+					echo "<td>".$interseccion['video']['direccion']."</td>";
+					if (array_key_exists("fechaCodificacion",$interseccion) ){
+					    echo "<td>".$interseccion['fechaCodificacion']."</td>";
+					   }
+					else{
+					    echo "<td>&nbsp;</td>";
 						}
 			   		//echo $interseccion['_id']."<br/>". $interseccion['nombreInterseccion'];
 			  		echo "<td><a href=./Capturador/index.php?nombreInterseccion=".$interseccion['nombreInterseccion'].">Captura</a></td>";
